@@ -43,3 +43,9 @@ Install required libraries via Arduino IDE Library Manager:
 Clone the repository:
 ```bash
 git clone https://github.com/SurajKumarKonda/Arachne-1.0/tree/main
+```
+- Open the Arduino IDE and include `arachne1.cpp` into a new sketch.
+
+## Contributing
+
+Modify `setServoAngle()` values in functions for terrain-specific adjustments.
