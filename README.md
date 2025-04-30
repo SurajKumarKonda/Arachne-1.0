@@ -42,7 +42,7 @@ Install required libraries via Arduino IDE Library Manager:
 ### 3. Clone the repository
 Clone the repository:
 ```bash
-git clone https://github.com/SurajKumarKonda/Arachne-1.0/tree/main
+git clone https://github.com/SurajKumarKonda/Arachne-1.0
 ```
 - Open the Arduino IDE and include `arachne1.cpp` into a new sketch.
 
