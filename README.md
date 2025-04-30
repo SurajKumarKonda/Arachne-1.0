@@ -36,10 +36,10 @@ Arachne 1.0 is a programmable quadruped robot designed for remote surveillance i
 
 ### 2. Software Installation
 Install required libraries via Arduino IDE Library Manager:
-- **Wire**
-- **Adafruit_PWMServoDriver**
+- `Wire`  
+- `Adafruit_PWMServoDriver`
 
 ### 3. Clone the repository
 Clone the repository:
 ```bash
-git clone https://github.com/SurajKumarKonda/Arachne-1.0
+git clone https://github.com/SurajKumarKonda/Arachne-1.0/tree/main
