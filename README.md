@@ -18,11 +18,11 @@ Arachne 1.0 is a programmable quadruped robot designed for remote surveillance i
 
 | Component            | Specification                                |
 |---------------------|----------------------------------------------|
-| Microcontroller      | Arduino Uno / Clone                          |
+| Microcontroller      | Arduino Uno                          |
 | Servo Controller     | Adafruit PCA9685 PWM Driver                  |
-| Servos               | 12x Digital/Analog Micro/Mid-Servos          |
+| Servos               | 12x Servos          |
 | Power                | 7.4V–12V Rechargeable Battery Pack           |
-| Chassis              | Custom-built (Acrylic/Aluminum)              |
+| Chassis              | Custom 3D-printed             |
 | Extras               | Jumper Cables, Screws, Zip Ties              |
 
 ---
