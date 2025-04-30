@@ -31,8 +31,15 @@ Arachne 1.0 is a programmable quadruped robot designed for remote surveillance i
 
 ### 1. Hardware Assembly
 - Connect servos to PCA9685 driver (refer to pinout diagram in `/docs`).
-- Link power supply to Arduino and PCA9685.
+- Link the power supply to Arduino and PCA9685.
 - Secure chassis components: legs → body → electronics bay.
 
 ### 2. Software Installation
 Install required libraries via Arduino IDE Library Manager:
+- **Wire**
+- **Adafruit_PWMServoDriver**
+
+### 3. Clone the repository
+Clone the repository:
+```bash
+git clone https://github.com/SurajKumarKonda/Arachne-1.0
