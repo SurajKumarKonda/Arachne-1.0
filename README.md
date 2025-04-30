@@ -48,4 +48,14 @@ git clone https://github.com/SurajKumarKonda/Arachne-1.0/tree/main
 
 ## Contributing
 
-Modify `setServoAngle()` values in functions for terrain-specific adjustments.
+Contributions are welcome! Fork the repository and submit pull requests for bug fixes, enhancements, or new features.
+
+---
+
+## License
+
+MIT License – see [LICENSE](LICENSE) for details.
+
+---
+
+**Arachne 1.0**: *Where Robotics Meets Resilience.*
